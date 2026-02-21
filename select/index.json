@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "どうせ死ぬなら",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-02-21T11:33:25.380982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どうせ死ぬなら",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_どうせ死ぬなら_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どうせ死ぬなら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_どうせ死ぬなら_あいみょん.txt"
+    }
+  ]
+}
